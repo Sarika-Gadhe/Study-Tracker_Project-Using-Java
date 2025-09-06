@@ -1,4 +1,4 @@
-### 📘 **Study_Tracker**
+# 📘 Study_Tracker
 
 A simple **Java console-based application** that helps students track their study sessions.Users can log study details, view summaries, and export logs to a CSV file for future reference.  
 
