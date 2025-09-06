@@ -24,12 +24,12 @@ Before running this project, make sure you have the following installed:
     java -version
     javac -version
     ```
-  ---
+---
 ## 🛠️ Technologies Used  
 
 - **Java**
 
-  ---
+---
 
 ## ▶️ How to Run  
 
