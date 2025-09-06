@@ -1,5 +1,4 @@
 ## 📘 Study_Tracker
-
 ---
 A simple **Java console-based application** that helps students track their study sessions.Users can log study details, view summaries, and export logs to a CSV file for future reference.  
 
@@ -36,7 +35,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/StudyTracker.git
+   git clone https://github.com/Sarika-Gadhe/Study-Tracker_Project-Using-Java.git
    cd StudyTracker
 
 2. **Compile the Program**
