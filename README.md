@@ -31,7 +31,7 @@ Before running this project, make sure you have the following installed:
 
   ---
 
-  ## ▶️ How to Run  
+## ▶️ How to Run  
 
 1. **Clone the Repository**  
    ```bash
