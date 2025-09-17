@@ -63,10 +63,10 @@ Before running this project, make sure you have the following installed:
 - 6.Exit
 - Enter Choice : 1
 
- - Subject: C
- - Duration (hours): 2.0
- - Description: Studied Pointer in C
- - Log added successfully on: 2025-09-07
+   - **Subject:** C
+   - **Duration (hours):** 2.0
+   - **Description:** Studied Pointer in C
+   - Log added successfully on: 2025-09-07
  -----
  ## 📤 Sample Exported CSV
 
