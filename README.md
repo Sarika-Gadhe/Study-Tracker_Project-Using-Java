@@ -1,4 +1,4 @@
-<img width="448" height="422" alt="image" src="https://github.com/user-attachments/assets/d5c4dbfb-fcef-4532-a4f4-a2c9cc40a6fe" /># 📘 Study_Tracker
+## <h1> 📘 Study_Tracker </h1>
 
 A simple **Java console-based application** that helps students track their study sessions.Users can log study details, view summaries, and export logs to a CSV file for future reference.  
 
