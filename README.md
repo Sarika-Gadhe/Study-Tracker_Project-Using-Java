@@ -1,9 +1,16 @@
-# 📘 Study_Tracker
+<img width="448" height="422" alt="image" src="https://github.com/user-attachments/assets/d5c4dbfb-fcef-4532-a4f4-a2c9cc40a6fe" /># 📘 Study_Tracker
 
 A simple **Java console-based application** that helps students track their study sessions.Users can log study details, view summaries, and export logs to a CSV file for future reference.  
 
 ---
-
+## 🧰 Technologies Used
+- Language: Java
+- Packages:
+- java.util: ArrayList, LinkedList, TreeMap
+- java.util.Scanner: User input
+- java.time.LocalDate: Auto-captures current date
+- java.io: File handling and CSV export
+---
 ## 🚀 Features
 
 - 📅 **Insert Study Log** – Record the subject, duration, and description of your study.  
@@ -45,4 +52,30 @@ Before running this project, make sure you have the following installed:
 3. **Run the Application**
    ```bash
    java StudyTrackerFinal.java
+
+## 📅 Example Usage (Console Flow)
+
+- 1.Insert Study Log
+- 2.Display All Logs
+- 3.Summary By Date
+- 4.Summary By Subject
+- 5.Export to CSV
+- 6.Exit
+- Enter Choice : 1
+
+ - Subject: C
+ - Duration (hours): 2.0
+ - Description: Studied Pointer in C
+ - Log added successfully on: 2025-09-07
+ -----
+ ## 📤 Sample Exported CSV
+
+ <img width="428" height="148" alt="image" src="https://github.com/user-attachments/assets/1ceddf40-01bc-47ba-bb61-4b526c8c5625" />
+
+
+
+
+
+
+   
        
